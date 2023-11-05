@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_J607F.mk
+    $(LOCAL_DIR)/twrp_J607F.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_J607F-user \
-    omni_J607F-userdebug \
-    omni_J607F-eng
+    twrp_J607F-user \
+    twrp_J607F-userdebug \
+    twrp_J607F-eng
